@@ -1454,6 +1454,10 @@
 		(uuid "150ea322-4aa0-49b5-8f74-14649051121f")
 	)
 	(no_connect
+		(at 72.39 64.77)
+		(uuid "2016fedd-7b7f-4448-8c8f-0e84ae10a631")
+	)
+	(no_connect
 		(at 72.39 41.91)
 		(uuid "2ff6c578-6665-4c6f-9cea-c878a0515eb5")
 	)
@@ -1464,6 +1468,10 @@
 	(no_connect
 		(at 72.39 72.39)
 		(uuid "50eb5bcb-e08c-4703-85c4-7d3c984e1944")
+	)
+	(no_connect
+		(at 72.39 54.61)
+		(uuid "c98d7fb4-773d-47c4-9186-58b3eb937839")
 	)
 	(no_connect
 		(at 72.39 52.07)
@@ -1983,7 +1991,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "73099-0:POMONA_73099-0"
+		(property "Footprint" "my_custom:POMONA_73099-0"
 			(at 144.78 71.12 0)
 			(effects
 				(font
@@ -2153,7 +2161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23dccf54-dcbf-4700-9689-eb83dad12ce7")
-		(property "Reference" "J6"
+		(property "Reference" "Je1"
 			(at 148.59 38.0999 0)
 			(effects
 				(font
@@ -2171,7 +2179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "73099-0:POMONA_73099-0"
+		(property "Footprint" "my_custom:POMONA_73099-0"
 			(at 144.78 39.37 0)
 			(effects
 				(font
@@ -2325,7 +2333,7 @@
 		(instances
 			(project ""
 				(path "/3cd5f95e-5b22-4342-86a1-cdbd217d3c5d"
-					(reference "J6")
+					(reference "Je1")
 					(unit 1)
 				)
 			)
@@ -2359,7 +2367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "73099-0:POMONA_73099-0"
+		(property "Footprint" "my_custom:POMONA_73099-0"
 			(at 144.78 64.77 0)
 			(effects
 				(font
@@ -2680,7 +2688,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 106.68 60.96 0)
 			(effects
 				(font
@@ -2756,7 +2764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "73099-0:POMONA_73099-0"
+		(property "Footprint" "my_custom:POMONA_73099-0"
 			(at 144.78 52.07 0)
 			(effects
 				(font
@@ -3011,7 +3019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "73099-0:POMONA_73099-0"
+		(property "Footprint" "my_custom:POMONA_73099-0"
 			(at 144.78 58.42 0)
 			(effects
 				(font
@@ -3358,7 +3366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "73099-0:POMONA_73099-0"
+		(property "Footprint" "my_custom:POMONA_73099-0"
 			(at 144.78 45.72 0)
 			(effects
 				(font
@@ -3546,7 +3554,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 106.68 46.99 0)
 			(effects
 				(font
@@ -3622,7 +3630,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 106.68 73.66 0)
 			(effects
 				(font
