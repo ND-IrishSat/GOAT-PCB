@@ -1444,7 +1444,7 @@
 		)
 	)
 	(junction
-		(at 137.16 45.72)
+		(at 118.11 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b82f1f7b-540d-4ee0-9b14-8147a431dc71")
@@ -1495,17 +1495,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 78.74) (xy 90.17 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0557993a-97a5-46c5-9530-dc95ee1e413f")
-	)
-	(wire
-		(pts
-			(xy 137.16 39.37) (xy 137.16 45.72)
+			(xy 118.11 40.64) (xy 118.11 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1515,37 +1505,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 66.04) (xy 137.16 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0aaff4ee-6249-450c-aabd-b8c96d24c28d")
-	)
-	(wire
-		(pts
-			(xy 86.36 74.93) (xy 72.39 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cf7d144-2631-42ca-acc7-9ea7839c6344")
-	)
-	(wire
-		(pts
-			(xy 85.09 62.23) (xy 85.09 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "191864a1-7aa7-4d20-a9e5-db5717e2f0ba")
-	)
-	(wire
-		(pts
-			(xy 137.16 45.72) (xy 137.16 52.07)
+			(xy 118.11 46.99) (xy 118.11 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1553,329 +1513,253 @@
 		)
 		(uuid "1b0e8967-f544-49c5-902e-ac752d0b4a2e")
 	)
-	(wire
-		(pts
-			(xy 83.82 59.69) (xy 72.39 59.69)
-		)
+	(rectangle
+		(start 83.82 34.29)
+		(end 109.22 95.25)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1f46306b-fe7c-4a09-8083-d0802214cdac")
-	)
-	(wire
-		(pts
-			(xy 85.09 54.61) (xy 137.16 54.61)
+		(fill
+			(type none)
 		)
+		(uuid 7f3ffba3-7853-462f-ad7c-8a4b58627337)
+	)
+	(rectangle
+		(start 57.15 34.29)
+		(end 82.55 95.25)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2d6e7f55-e13d-4995-80de-a9ba23754d54")
-	)
-	(wire
-		(pts
-			(xy 82.55 57.15) (xy 82.55 44.45)
+		(fill
+			(type none)
 		)
+		(uuid f1240e70-bfa5-421b-8115-43594bf2efc3)
+	)
+	(rectangle
+		(start 110.49 34.29)
+		(end 140.97 95.25)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3292b7f6-46d5-45fd-9e6f-9d3f76597603")
+		(fill
+			(type none)
+		)
+		(uuid f1620d8d-ca75-490a-8cdb-515ce1f62a53)
 	)
-	(wire
-		(pts
-			(xy 87.63 66.04) (xy 137.16 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3559fe7e-13bf-4ce7-b6ce-739a5db168f5")
-	)
-	(wire
-		(pts
-			(xy 90.17 73.66) (xy 101.6 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "367e16c4-fc22-433b-93ad-297f909e6c3c")
-	)
-	(wire
-		(pts
-			(xy 125.73 71.12) (xy 125.73 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37b38013-005b-4b37-a840-c666596ea8c1")
-	)
-	(wire
-		(pts
-			(xy 87.63 68.58) (xy 101.6 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39b06057-c765-4fe8-a2cb-6f732209df54")
-	)
-	(wire
-		(pts
-			(xy 85.09 55.88) (xy 101.6 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4321156e-5bfd-4173-a8a2-d25ba5467fe8")
-	)
-	(wire
-		(pts
-			(xy 137.16 54.61) (xy 137.16 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46823bb3-e0d8-46c2-9817-1c44c6fb7f4b")
-	)
-	(wire
-		(pts
-			(xy 72.39 57.15) (xy 82.55 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "509657ce-1445-4145-9a7a-8296f7216396")
-	)
-	(wire
-		(pts
-			(xy 125.73 78.74) (xy 90.17 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5528f810-0678-4a52-9576-8497c106e684")
-	)
-	(wire
-		(pts
-			(xy 72.39 77.47) (xy 87.63 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6270a35b-ece7-48a0-b333-de5fc69d9f19")
-	)
-	(wire
-		(pts
-			(xy 86.36 58.42) (xy 86.36 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72213517-d78a-4f3a-a7a0-4e97ec866613")
-	)
-	(wire
-		(pts
-			(xy 72.39 82.55) (xy 88.9 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "725bcba4-613b-4f3a-b0c5-8cb89cb5064b")
-	)
-	(wire
-		(pts
-			(xy 83.82 41.91) (xy 83.82 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81bae024-2f92-4f29-860e-83aa6f104b1d")
-	)
-	(wire
-		(pts
-			(xy 101.6 58.42) (xy 86.36 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84d1f298-6480-4008-8a9f-da7b33e7aa69")
-	)
-	(wire
-		(pts
-			(xy 101.6 60.96) (xy 87.63 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88ccb44a-55bd-4b0b-828c-2bb947567f3c")
-	)
-	(wire
-		(pts
-			(xy 87.63 77.47) (xy 87.63 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d6058d8-cfa2-436e-8dbc-c4c2581799a5")
-	)
-	(wire
-		(pts
-			(xy 85.09 46.99) (xy 85.09 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3acf80e-1ea6-4041-bdc2-50247f4e35de")
-	)
-	(wire
-		(pts
-			(xy 137.16 71.12) (xy 125.73 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad41f5b2-15a8-4643-a6e7-1626c9ba7789")
-	)
-	(wire
-		(pts
-			(xy 72.39 62.23) (xy 85.09 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2dcca10-a54c-41bd-8c84-78865cdc9609")
-	)
-	(wire
-		(pts
-			(xy 87.63 60.96) (xy 87.63 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b336e09d-ab00-404a-b777-97ae15650c41")
-	)
-	(wire
-		(pts
-			(xy 82.55 44.45) (xy 101.6 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c06d1588-27d4-4e49-bc35-7ff6ec14b897")
-	)
-	(wire
-		(pts
-			(xy 88.9 82.55) (xy 88.9 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1bd568c-b6f1-489b-b858-931335850487")
-	)
-	(wire
-		(pts
-			(xy 88.9 71.12) (xy 101.6 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6b4591c-dad3-414e-be57-09097ec934e5")
-	)
-	(wire
-		(pts
-			(xy 101.6 41.91) (xy 83.82 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee7eeed2-0844-4c1e-a089-18a5853b9366")
-	)
-	(wire
-		(pts
-			(xy 101.6 46.99) (xy 85.09 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f00a1fa3-07e7-47d2-af94-666b60c09ae8")
-	)
-	(text "Power Supply Each need a GND"
+	(text "H-Bridges"
 		(exclude_from_sim no)
-		(at 145.034 35.052 0)
+		(at 89.916 94.234 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "bf31cf11-b2a0-4355-8347-eba90def95dc")
+		(uuid "12e61cee-7a60-4b62-bb3a-557e27f6797f")
 	)
-	(label "Female Banana Plug Connectors"
-		(at 142.24 77.47 0)
-		(fields_autoplaced yes)
+	(text "Banana Plugs"
+		(exclude_from_sim no)
+		(at 117.602 94.234 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5e70ff61-88c0-4b81-8c90-0c78bc908428")
+	)
+	(text "Arduino Pins"
+		(exclude_from_sim no)
+		(at 64.77 93.726 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "724281f0-b518-4697-b4b9-d62aab772a42")
+	)
+	(label "IN2_X"
+		(at 72.39 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "7594651b-a039-4aaa-b503-50a5b3b18b08")
+		(uuid "12c74a7e-b523-4682-bc57-940b39768c1a")
 	)
-	(label "VM"
-		(at 109.22 78.74 0)
-		(fields_autoplaced yes)
+	(label "VM_X"
+		(at 118.11 59.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1cac20a1-0883-4ba5-948d-b14e6414eb07")
+	)
+	(label "IN1_X"
+		(at 72.39 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "9559326f-c472-4bbd-9849-132f2efb7e4f")
+		(uuid "3dd6c6a6-7466-4111-b0a2-b9020d08deda")
 	)
-	(label "VM"
-		(at 90.17 66.04 0)
+	(label "VM_Z"
+		(at 96.52 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4758e954-b690-4066-bae3-bce04784bd23")
+	)
+	(label "IN1_Z"
+		(at 96.52 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "47f69106-2af7-4209-9586-d2e070cdc9fc")
+	)
+	(label "VM_Z"
+		(at 118.11 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "487aa040-6017-4302-8c80-69b69c57dc3e")
+	)
+	(label "IN2_X"
+		(at 96.52 38.1 180)
 		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "50571c09-6e1b-4812-be0b-952b258893d7")
+	)
+	(label "IN2_Z"
+		(at 72.39 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "c45a2035-05df-465b-bf6d-261fef82e59d")
+		(uuid "539a35cc-2627-480e-ba1f-82a3b00ba8a4")
 	)
-	(label "VM"
-		(at 87.63 54.61 0)
-		(fields_autoplaced yes)
+	(label "IN2_Y"
+		(at 72.39 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "fd37fd47-5ac1-4228-a23e-081538f37e79")
+		(uuid "67822d5f-f319-41d3-87dd-64f63e4583ab")
+	)
+	(label "VM_X"
+		(at 96.52 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "67e4aa49-c78a-4d8f-96eb-932e255b562f")
+	)
+	(label "IN2_Z"
+		(at 96.52 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7d427e19-6580-4db6-bfc6-268bfc3ce81d")
+	)
+	(label "IN1_Y"
+		(at 96.52 58.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7ec75c0e-e28d-48ae-85dd-70fcd88f37fc")
+	)
+	(label "VM_Y"
+		(at 118.11 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9be58827-f9ef-4d49-a634-67999e56c14d")
+	)
+	(label "IN2_Y"
+		(at 96.52 55.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aa6a51a5-978f-487b-9ac8-6fddaef51074")
+	)
+	(label "IN1_Z"
+		(at 72.39 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c7d7bdbe-3e5f-4e25-8b9f-2b67c5faae51")
+	)
+	(label "IN1_X"
+		(at 96.52 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cc1f6f8d-8979-41cd-b8b5-f73be2a1a813")
+	)
+	(label "IN1_Y"
+		(at 72.39 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d4da8d49-4eec-4dd1-bedf-03921f81bf33")
+	)
+	(label "VM_Y"
+		(at 96.52 60.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e376b67b-f653-4db5-a110-59784d27bbfc")
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Pin")
@@ -1965,7 +1849,7 @@
 	)
 	(symbol
 		(lib_id "73099-0:73099-0")
-		(at 144.78 71.12 0)
+		(at 125.73 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1974,7 +1858,7 @@
 		(fields_autoplaced yes)
 		(uuid "23b54873-1554-45dc-b52e-e2999a135101")
 		(property "Reference" "J11"
-			(at 148.59 69.8499 0)
+			(at 129.54 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1983,7 +1867,7 @@
 			)
 		)
 		(property "Value" "73099-0"
-			(at 148.59 72.3899 0)
+			(at 129.54 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1992,7 +1876,7 @@
 			)
 		)
 		(property "Footprint" "my_custom:POMONA_73099-0"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2002,7 +1886,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2011,7 +1895,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2020,7 +1904,7 @@
 			)
 		)
 		(property "MF" "Pomona Electronics"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2030,7 +1914,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "11.5mm"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2040,7 +1924,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2050,7 +1934,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2060,7 +1944,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=eda"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2070,7 +1954,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2080,7 +1964,7 @@
 			)
 		)
 		(property "PARTREV" "101"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2090,7 +1974,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=snap"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2100,7 +1984,7 @@
 			)
 		)
 		(property "MP" "73099-0"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2110,7 +1994,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            R/A 4Mm Mounting Safety Jack For Pcb, Black | Pomona Electronics 73099-0\n                        \n"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2120,7 +2004,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2130,7 +2014,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Pomona Electronics"
-			(at 144.78 71.12 0)
+			(at 125.73 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2153,7 +2037,7 @@
 	)
 	(symbol
 		(lib_id "73099-0:73099-0")
-		(at 144.78 39.37 0)
+		(at 125.73 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2162,7 +2046,7 @@
 		(fields_autoplaced yes)
 		(uuid "23dccf54-dcbf-4700-9689-eb83dad12ce7")
 		(property "Reference" "Je1"
-			(at 148.59 38.0999 0)
+			(at 129.54 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2171,7 +2055,7 @@
 			)
 		)
 		(property "Value" "73099-0"
-			(at 148.59 40.6399 0)
+			(at 129.54 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2180,7 +2064,7 @@
 			)
 		)
 		(property "Footprint" "my_custom:POMONA_73099-0"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2190,7 +2074,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2199,7 +2083,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2208,7 +2092,7 @@
 			)
 		)
 		(property "MF" "Pomona Electronics"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2218,7 +2102,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "11.5mm"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2228,7 +2112,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2238,7 +2122,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2248,7 +2132,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=eda"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2258,7 +2142,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2268,7 +2152,7 @@
 			)
 		)
 		(property "PARTREV" "101"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2278,7 +2162,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=snap"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2288,7 +2172,7 @@
 			)
 		)
 		(property "MP" "73099-0"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2298,7 +2182,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            R/A 4Mm Mounting Safety Jack For Pcb, Black | Pomona Electronics 73099-0\n                        \n"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2308,7 +2192,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2318,7 +2202,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Pomona Electronics"
-			(at 144.78 39.37 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2341,7 +2225,7 @@
 	)
 	(symbol
 		(lib_id "73099-0:73099-0")
-		(at 144.78 64.77 0)
+		(at 125.73 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2350,7 +2234,7 @@
 		(fields_autoplaced yes)
 		(uuid "5150fa9d-7de5-4518-a90a-d44e2569b0e7")
 		(property "Reference" "J10"
-			(at 148.59 63.4999 0)
+			(at 129.54 64.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2359,7 +2243,7 @@
 			)
 		)
 		(property "Value" "73099-0"
-			(at 148.59 66.0399 0)
+			(at 129.54 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2368,7 +2252,7 @@
 			)
 		)
 		(property "Footprint" "my_custom:POMONA_73099-0"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2378,7 +2262,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2387,7 +2271,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,7 +2280,7 @@
 			)
 		)
 		(property "MF" "Pomona Electronics"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2406,7 +2290,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "11.5mm"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2416,7 +2300,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2426,7 +2310,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2436,7 +2320,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=eda"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2446,7 +2330,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2456,7 +2340,7 @@
 			)
 		)
 		(property "PARTREV" "101"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2466,7 +2350,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=snap"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2476,7 +2360,7 @@
 			)
 		)
 		(property "MP" "73099-0"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2486,7 +2370,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            R/A 4Mm Mounting Safety Jack For Pcb, Black | Pomona Electronics 73099-0\n                        \n"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2496,7 +2380,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2506,7 +2390,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Pomona Electronics"
-			(at 144.78 64.77 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2529,7 +2413,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 45.72 270)
+		(at 118.11 46.99 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2537,7 +2421,7 @@
 		(dnp no)
 		(uuid "5272e9a7-3498-4003-ad77-873f3c7fbb40")
 		(property "Reference" "#PWR05"
-			(at 130.81 45.72 0)
+			(at 111.76 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2546,7 +2430,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.35 45.72 90)
+			(at 114.3 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2555,7 +2439,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 45.72 0)
+			(at 118.11 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2564,7 +2448,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 45.72 0)
+			(at 118.11 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2573,7 +2457,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 45.72 0)
+			(at 118.11 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2595,7 +2479,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 63.5 270)
+		(at 96.52 63.5 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2604,7 +2488,7 @@
 		(fields_autoplaced yes)
 		(uuid "5d001c94-afc6-4a57-8414-3e334f82fc58")
 		(property "Reference" "#PWR03"
-			(at 95.25 63.5 0)
+			(at 90.17 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2613,7 +2497,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 63.4999 90)
+			(at 92.71 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2622,7 +2506,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 63.5 0)
+			(at 96.52 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2631,7 +2515,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 63.5 0)
+			(at 96.52 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2640,7 +2524,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 63.5 0)
+			(at 96.52 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2662,16 +2546,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 106.68 60.96 180)
+		(at 101.6 60.96 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5d922ddd-f6d2-40c6-98b3-9996db7f9186")
 		(property "Reference" "J4"
-			(at 107.95 58.4199 0)
+			(at 88.9 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2680,7 +2563,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 107.95 60.9599 0)
+			(at 88.9 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2689,7 +2572,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 106.68 60.96 0)
+			(at 101.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2698,7 +2581,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 60.96 0)
+			(at 101.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2707,7 +2590,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 106.68 60.96 0)
+			(at 101.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2738,7 +2621,7 @@
 	)
 	(symbol
 		(lib_id "73099-0:73099-0")
-		(at 144.78 52.07 0)
+		(at 125.73 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2747,7 +2630,7 @@
 		(fields_autoplaced yes)
 		(uuid "78d162b1-e1e9-44ca-80e0-2c502b5430e8")
 		(property "Reference" "J8"
-			(at 148.59 50.7999 0)
+			(at 129.54 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2756,7 +2639,7 @@
 			)
 		)
 		(property "Value" "73099-0"
-			(at 148.59 53.3399 0)
+			(at 129.54 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2765,7 +2648,7 @@
 			)
 		)
 		(property "Footprint" "my_custom:POMONA_73099-0"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2775,7 +2658,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2784,7 +2667,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2793,7 +2676,7 @@
 			)
 		)
 		(property "MF" "Pomona Electronics"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2803,7 +2686,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "11.5mm"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2813,7 +2696,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2823,7 +2706,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2833,7 +2716,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=eda"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2843,7 +2726,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2853,7 +2736,7 @@
 			)
 		)
 		(property "PARTREV" "101"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2863,7 +2746,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=snap"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2873,7 +2756,7 @@
 			)
 		)
 		(property "MP" "73099-0"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2883,7 +2766,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            R/A 4Mm Mounting Safety Jack For Pcb, Black | Pomona Electronics 73099-0\n                        \n"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,7 +2776,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2903,7 +2786,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Pomona Electronics"
-			(at 144.78 52.07 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2926,7 +2809,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 76.2 270)
+		(at 96.52 81.28 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2935,7 +2818,7 @@
 		(fields_autoplaced yes)
 		(uuid "7bda6f33-5581-4636-90eb-ea22e60ae580")
 		(property "Reference" "#PWR04"
-			(at 95.25 76.2 0)
+			(at 90.17 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2944,7 +2827,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 76.1999 90)
+			(at 92.71 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2953,7 +2836,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 76.2 0)
+			(at 96.52 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2962,7 +2845,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 76.2 0)
+			(at 96.52 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2971,7 +2854,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 76.2 0)
+			(at 96.52 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2993,7 +2876,7 @@
 	)
 	(symbol
 		(lib_id "73099-0:73099-0")
-		(at 144.78 58.42 0)
+		(at 125.73 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3002,7 +2885,7 @@
 		(fields_autoplaced yes)
 		(uuid "914ed6cb-7f50-41ee-858d-790a8eab70a0")
 		(property "Reference" "J9"
-			(at 148.59 57.1499 0)
+			(at 129.54 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3011,7 +2894,7 @@
 			)
 		)
 		(property "Value" "73099-0"
-			(at 148.59 59.6899 0)
+			(at 129.54 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3020,7 +2903,7 @@
 			)
 		)
 		(property "Footprint" "my_custom:POMONA_73099-0"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3030,7 +2913,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3039,7 +2922,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3048,7 +2931,7 @@
 			)
 		)
 		(property "MF" "Pomona Electronics"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3058,7 +2941,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "11.5mm"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3068,7 +2951,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3078,7 +2961,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3088,7 +2971,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=eda"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3098,7 +2981,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3108,7 +2991,7 @@
 			)
 		)
 		(property "PARTREV" "101"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3118,7 +3001,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=snap"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3128,7 +3011,7 @@
 			)
 		)
 		(property "MP" "73099-0"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3138,7 +3021,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            R/A 4Mm Mounting Safety Jack For Pcb, Black | Pomona Electronics 73099-0\n                        \n"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3148,7 +3031,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3158,7 +3041,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Pomona Electronics"
-			(at 144.78 58.42 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3187,7 +3070,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a0f3ed38-cc52-41b3-a809-e54f899b4c92")
 		(property "Reference" "J1"
 			(at 67.945 36.83 0)
@@ -3340,7 +3222,7 @@
 	)
 	(symbol
 		(lib_id "73099-0:73099-0")
-		(at 144.78 45.72 0)
+		(at 125.73 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3349,7 +3231,7 @@
 		(fields_autoplaced yes)
 		(uuid "b31a3f16-c4dc-4117-bc5f-20d75644acf6")
 		(property "Reference" "J7"
-			(at 148.59 44.4499 0)
+			(at 129.54 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3358,7 +3240,7 @@
 			)
 		)
 		(property "Value" "73099-0"
-			(at 148.59 46.9899 0)
+			(at 129.54 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3367,7 +3249,7 @@
 			)
 		)
 		(property "Footprint" "my_custom:POMONA_73099-0"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3377,7 +3259,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3386,7 +3268,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3395,7 +3277,7 @@
 			)
 		)
 		(property "MF" "Pomona Electronics"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3405,7 +3287,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "11.5mm"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3415,7 +3297,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3425,7 +3307,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3435,7 +3317,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=eda"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3445,7 +3327,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3455,7 +3337,7 @@
 			)
 		)
 		(property "PARTREV" "101"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3465,7 +3347,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/73099-0/Pomona+Electronics/view-part/?ref=snap"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3475,7 +3357,7 @@
 			)
 		)
 		(property "MP" "73099-0"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3485,7 +3367,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            R/A 4Mm Mounting Safety Jack For Pcb, Black | Pomona Electronics 73099-0\n                        \n"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3495,7 +3377,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3505,7 +3387,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Pomona Electronics"
-			(at 144.78 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3528,16 +3410,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 106.68 46.99 180)
+		(at 101.6 43.18 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c73065b8-d5e1-4a84-ac7d-07ecd7858348")
 		(property "Reference" "J3"
-			(at 107.95 44.4499 0)
+			(at 88.9 48.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3546,7 +3427,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 107.95 46.9899 0)
+			(at 88.9 51.054 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3555,7 +3436,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 106.68 46.99 0)
+			(at 101.6 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3564,7 +3445,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 46.99 0)
+			(at 101.6 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3573,7 +3454,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 106.68 46.99 0)
+			(at 101.6 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3604,16 +3485,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 106.68 73.66 180)
+		(at 101.6 78.74 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cbea168b-481c-45dd-b167-b08003f70c88")
 		(property "Reference" "J5"
-			(at 107.95 71.1199 0)
+			(at 89.154 83.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3622,7 +3502,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 107.95 73.6599 0)
+			(at 89.154 86.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3631,7 +3511,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 106.68 73.66 0)
+			(at 101.6 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3640,7 +3520,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 73.66 0)
+			(at 101.6 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3649,7 +3529,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 106.68 73.66 0)
+			(at 101.6 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3680,7 +3560,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 49.53 270)
+		(at 96.52 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3688,7 +3568,7 @@
 		(dnp no)
 		(uuid "f27e6866-514b-4ba7-9845-2363747b2138")
 		(property "Reference" "#PWR02"
-			(at 95.25 49.53 0)
+			(at 90.17 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3697,7 +3577,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 49.53 90)
+			(at 92.71 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3706,7 +3586,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 49.53 0)
+			(at 96.52 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3715,7 +3595,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 49.53 0)
+			(at 96.52 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3724,7 +3604,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 49.53 0)
+			(at 96.52 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
