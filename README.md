@@ -1,7 +1,12 @@
-Basic Connections outlined. We still need to change trace length, modify board dimensions, and more. 
+# GoatLab Arduino Hat PCB
+---
+This is the PCB hat for the GoatLab Helmholtz Cage main circuit intended to compact the circuit, connecting the power supply, Arduino, and H-Bridges connecting to the cage.
 
-Board Layout
-<img src="PCBArduinoPin.png" align="center">
+## PCB Schematic:
+<img src="/Github-Media/GOATPCB_schematic.png" align="center">
 
-General Shape of board. 
-<img src="firstIteration.png" align="center">
+## PCB Design: 
+<img src="/Github-Media/GOATPCB_layout.png" align="center">
+
+## Orthographic View:
+<img src="/Github-Media/GOATPCB_3D_view.png" align="center">
