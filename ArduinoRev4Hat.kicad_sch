@@ -1579,8 +1579,9 @@
 		)
 		(uuid "724281f0-b518-4697-b4b9-d62aab772a42")
 	)
-	(label "IN2_X"
+	(label "IN1_X"
 		(at 72.39 59.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1591,6 +1592,7 @@
 	)
 	(label "VM_X"
 		(at 118.11 59.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1599,8 +1601,9 @@
 		)
 		(uuid "1cac20a1-0883-4ba5-948d-b14e6414eb07")
 	)
-	(label "IN1_X"
+	(label "IN2_X"
 		(at 72.39 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1611,6 +1614,7 @@
 	)
 	(label "VM_Z"
 		(at 96.52 78.74 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1621,6 +1625,7 @@
 	)
 	(label "IN1_Z"
 		(at 96.52 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1631,6 +1636,7 @@
 	)
 	(label "VM_Z"
 		(at 118.11 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1652,6 +1658,7 @@
 	)
 	(label "IN2_Z"
 		(at 72.39 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1662,6 +1669,7 @@
 	)
 	(label "IN2_Y"
 		(at 72.39 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1672,6 +1680,7 @@
 	)
 	(label "VM_X"
 		(at 96.52 43.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1682,6 +1691,7 @@
 	)
 	(label "IN2_Z"
 		(at 96.52 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1692,6 +1702,7 @@
 	)
 	(label "IN1_Y"
 		(at 96.52 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1702,6 +1713,7 @@
 	)
 	(label "VM_Y"
 		(at 118.11 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1712,6 +1724,7 @@
 	)
 	(label "IN2_Y"
 		(at 96.52 55.88 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1722,6 +1735,7 @@
 	)
 	(label "IN1_Z"
 		(at 72.39 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1743,6 +1757,7 @@
 	)
 	(label "IN1_Y"
 		(at 72.39 74.93 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1753,6 +1768,7 @@
 	)
 	(label "VM_Y"
 		(at 96.52 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2045,7 +2061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23dccf54-dcbf-4700-9689-eb83dad12ce7")
-		(property "Reference" "Je1"
+		(property "Reference" "J6"
 			(at 129.54 39.3699 0)
 			(effects
 				(font
@@ -2217,7 +2233,7 @@
 		(instances
 			(project ""
 				(path "/3cd5f95e-5b22-4342-86a1-cdbd217d3c5d"
-					(reference "Je1")
+					(reference "J6")
 					(unit 1)
 				)
 			)
