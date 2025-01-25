@@ -119,6 +119,7 @@
 		(property "Value" "73099-0"
 			(at 1 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7c913f6e-ca91-45b2-83de-c28a9561d418")
 			(effects
 				(font
@@ -519,7 +520,7 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J5"
-			(at -4.37 3.3 -90)
+			(at -0.02 -2.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b8768b00-40d5-473b-bc6a-e851b0c7589c")
@@ -533,6 +534,7 @@
 		(property "Value" "Conn_01x04_Pin"
 			(at 3.13 4.3 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4e4e32fa-d444-4b46-9d5d-6782e52e1661")
 			(effects
 				(font
@@ -820,6 +822,7 @@
 		(property "Value" "73099-0"
 			(at 1.25 -5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1b3a25c4-1983-497d-bd9e-3343aba7932f")
 			(effects
 				(font
@@ -1366,6 +1369,7 @@
 		(property "Value" "73099-0"
 			(at 1.25 -5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "beb1b8c8-b339-406c-a8f7-ea6cd90c673c")
 			(effects
 				(font
@@ -1766,7 +1770,7 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J4"
-			(at -4.37 3.8 -90)
+			(at 0.08 -2.7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "41799f96-63fd-4cce-ab81-dd9d7d208eb4")
@@ -1780,6 +1784,7 @@
 		(property "Value" "Conn_01x04_Pin"
 			(at 0 9.95 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "8d18cc9b-0e2e-42f5-b317-58e1ced4dc13")
 			(effects
 				(font
@@ -2067,6 +2072,7 @@
 		(property "Value" "73099-0"
 			(at 1 4.85 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "44f91e41-861e-45ab-9bc6-4594f6d93d9a")
 			(effects
 				(font
@@ -2478,6 +2484,7 @@
 		(property "Value" "73099-0"
 			(at 1.25 -5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9944a657-4d2b-48de-8110-651df3c93223")
 			(effects
 				(font
@@ -2889,6 +2896,7 @@
 		(property "Value" "73099-0"
 			(at 1.25 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "94d72e5d-29ff-49c7-9fb8-fa0a35fd2646")
 			(effects
 				(font
@@ -3302,6 +3310,7 @@
 		(property "Value" "Conn_01x10_Pin"
 			(at 0.508 26.797 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "bd08cc5b-5459-4a40-be53-e29570cb3fcc")
 			(effects
 				(font
@@ -3644,7 +3653,7 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J3"
-			(at -4.5 4.3 -90)
+			(at 0 -2.6 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d8824320-ba23-4cf3-9606-93bfc7ad2b87")
@@ -3658,6 +3667,7 @@
 		(property "Value" "Conn_01x04_Pin"
 			(at 0 9.95 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "123b6c8e-740c-4785-819c-bdc9a5f1f175")
 			(effects
 				(font
@@ -3947,6 +3957,7 @@
 		(property "Value" "Conn_01x08_Pin"
 			(at 0 20.11 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2249c4bc-ebb8-4d33-a80a-8f3b589723de")
 			(effects
 				(font
@@ -5519,12 +5530,6 @@
 				(xy 95.739636 57.676304) (xy 95.739634 57.676316) (xy 95.719443 57.919994) (xy 67.7505 57.919994)
 				(xy 67.7505 56.1245) (xy 67.770185 56.057461) (xy 67.822989 56.011706) (xy 67.8745 56.0005) (xy 109.3755 56.0005)
 			)
-		)
-	)
-	(group ""
-		(uuid "63666aea-ce02-43df-85f5-1b7b7dcba194")
-		(members "935f2623-a0f9-4c79-871a-c09389eb87c0" "bc6e2576-27ad-42bb-a951-a4d988f9a3fd"
-			"ec0ea479-60b9-422e-8927-8c2edca35275" "f4733074-2fef-4a37-a63b-7e0b9d5c95ae"
 		)
 	)
 )

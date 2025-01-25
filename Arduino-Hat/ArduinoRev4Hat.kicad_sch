@@ -1551,7 +1551,7 @@
 	)
 	(text "H-Bridges"
 		(exclude_from_sim no)
-		(at 89.916 94.234 0)
+		(at 90.17 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1559,9 +1559,19 @@
 		)
 		(uuid "12e61cee-7a60-4b62-bb3a-557e27f6797f")
 	)
+	(text "Goat Lab Arduino Hat PCB"
+		(exclude_from_sim no)
+		(at 204.47 190.5 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+		)
+		(uuid "48dc9ee9-e0e0-4404-aa22-17926d7d6b7e")
+	)
 	(text "Banana Plugs"
 		(exclude_from_sim no)
-		(at 117.602 94.234 0)
+		(at 118.11 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1571,13 +1581,33 @@
 	)
 	(text "Arduino Pins"
 		(exclude_from_sim no)
-		(at 64.77 93.726 0)
+		(at 64.77 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "724281f0-b518-4697-b4b9-d62aab772a42")
+	)
+	(text "1/25/2024"
+		(exclude_from_sim no)
+		(at 214.63 193.04 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+		)
+		(uuid "a80a3f8e-c336-4bef-b25c-4c3304682ac3")
+	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 269.24 193.04 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+		)
+		(uuid "df651900-ca5c-476b-b072-589d8b715524")
 	)
 	(label "IN1_X"
 		(at 72.39 59.69 0)
